@@ -1,0 +1,8 @@
+<group>
+	<FFT_bin_magnitudes__pitch_timbre_volume___512_inputs_>0</FFT_bin_magnitudes__pitch_timbre_volume___512_inputs_>
+	<MFCCs__timbre_vocal___13_inputs_>0</MFCCs__timbre_vocal___13_inputs_>
+	<Const-Q_analyser__12_bands_oct___104_inputs_>0</Const-Q_analyser__12_bands_oct___104_inputs_>
+	<Peak_frequency__pitch___1_input_>0</Peak_frequency__pitch___1_input_>
+	<Spectral_centroid__timbre___1_input_>0</Spectral_centroid__timbre___1_input_>
+	<RMS__volume___1_input_>0</RMS__volume___1_input_>
+</group>
